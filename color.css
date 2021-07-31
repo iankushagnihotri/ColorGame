@@ -1,0 +1,59 @@
+body
+{
+	background-color: #232323;
+}
+.square{
+	 width: 30%;
+	 background: purple;
+	 padding-bottom: 30%;
+	 margin: 1.66%;
+	 float: left;
+	 border-radius: 15%;
+	 transition:background 0.60s;
+}
+#a{
+	max-width: 600px;
+	margin: 0 auto;
+}
+ 
+#w{
+	 padding-top: 2rem;
+	width: 100%;
+	height: 200px;
+	
+	background-color: blue;
+	}
+#p{
+	font-size: 200%;
+}
+#t{
+	background: white;
+	height: 40px;
+	text-align: center;
+
+
+}
+#m
+{
+	display: inline-block;
+	width: 20%;
+}
+.select
+{
+	background-color: blue;
+}
+button{
+	border: none;
+	background: none;
+	font-size: inherit;
+	height: 100%;
+	font-weight: 700;
+	text-transform: uppercase;
+	transition: all 0.3s;
+	outline: none;
+}
+button:hover{
+	color:white;
+	background-color: blue;
+}
+ 
